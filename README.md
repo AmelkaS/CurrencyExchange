@@ -1,2 +1,2 @@
 # CurrencyExchange
-A Java application for currency conversion using exchange rates from the National Bank of Poland (NBP). 
+The Currency Exchange System is a Java application that enables currency conversion based on exchange rates provided by the National Bank of Poland (NBP). The project is designed following the SOLID principles, ensuring flexibility, maintainability, and extensibility of the code. The Singleton design pattern is implemented to guarantee a single instance of the class responsible for managing exchange rates.
